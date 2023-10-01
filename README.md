@@ -1,3 +1,6 @@
+#Array-lab
+
+
 import java.util.Scanner;
 
 public class Restaurant {
